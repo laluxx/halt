@@ -1,0 +1,9 @@
+#+TITLE: Halting Problem
+#+AUTHOR: Laluxx
+#+DATE: 2024-07-26
+
+Trying to solve the halting Problem
+even if it doesn't make sense
+
+
+
